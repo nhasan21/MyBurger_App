@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1094901056785",
+    "project_id": "myburger-13ddb",
+    "storage_bucket": "myburger-13ddb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094901056785:android:e6f85ed7c593c834e4b8b0",
+        "android_client_info": {
+          "package_name": "com.team13.myburger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdOTlvB7t2pQV8Nvk6okbYTFThuBQHP7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
